@@ -7,5 +7,10 @@ class modelTest{
         $this->text = "hello world ";
     }
 }
+
+
+
+
+
 $model1 = new modelTest();
 ?>
