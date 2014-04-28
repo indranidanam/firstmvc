@@ -17,4 +17,7 @@ class viewTest{
 $viewtest1 = new viewTest($controller1,$model1);
 echo $viewtest1->output();
 
+
+
+
 ?>
